@@ -5,7 +5,7 @@
 * [整体分析](#整体分析)
 * [Task 1](#Task 1: Image Patches)
 * [Task 2-1](#Task 2-1: Convolution and Gaussian Filter)
-* [Task 2-2](Task 2-2: Edge detection)
+* [Task 2-2](#Task 2-2: Edge detection)
 * [Task 3](#Task 3)
 * [心得体会](#心得体会)
 
